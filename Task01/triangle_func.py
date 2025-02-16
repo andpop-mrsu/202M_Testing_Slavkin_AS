@@ -15,4 +15,4 @@ def get_triangle_type(a: float, b: float, c: float) -> str:
     else:
         return "nonequilateral"
 
-print(get_triangle_type(3, 3, 3))
+#print(get_triangle_type(3, 3, 3))
